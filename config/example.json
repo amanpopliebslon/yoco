@@ -1,0 +1,66 @@
+{
+   "showTos": false,
+   "meetingsRatePerMinute": 30,
+   "OpenTok":{
+      "apiKey": "47144944",
+      "apiSecret": "8e1dfab445cd6eeafe1e5cb46d9805b5b25d4d18",
+      "publisherResolution": "640x480"
+   },
+   "precallTest": {
+       "enabled": true,
+       "apiKey": "46049502",
+       "apiSecret": "0f4a63f629cec64ebdc5552974fe2566d2eb2835"
+   },
+   "Archiving":{
+      "enabled":false,
+      "archiveManager":{
+         "enabled":false
+      }
+   },
+   "Feedback":{
+     "url": "",
+     "reportIssueLevel": 0
+   },
+   "Screensharing":{
+      "enabled":true,
+      "chromeExtensionId":null,
+      "annotations":{
+         "enabled":true
+      }
+   },
+   "SIP": {
+     "enabled": false,
+     "username": "nexmoApiKey",
+     "password": "nexmoApiSecret"
+   },
+  "Google": {
+    "clientId": "yourClientId.apps.googleusercontent.com",
+    "hostedDomain": "yourhosteddomain.com"
+  },
+  "useGoogleFonts": true,
+  "jqueryUrl": "https://ajax.googleapis.com/ajax/libs/jquery",
+  "minMeetingNameLength": 0,
+  "enableMuteAll": true,
+  "enableStopReceivingVideo": true,
+  "maxUsersPerRoom": 0,
+  "enableRoomLocking": true,
+  "autoGenerateRoomName": true,
+  "appName": "Yocolab",
+  "introText": "Welcome to yocolab",
+  "introFooterLinkText": "",
+  "introFooterLinkUrl": "",
+  "helpLinkText1": "",
+  "helpLinkUrl1": "",
+  "helpLinkText2": "",
+  "helpLinkUrl2": "",
+  "adobeTracking": {
+    "url": "",
+    "primaryCategory": "",
+    "siteIdentifier": "",
+    "functionDept": ""
+  },
+  "icid": {
+    "startBuiliding": "",
+    "contactUs": ""
+  }
+}
